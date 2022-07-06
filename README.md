@@ -1,2 +1,2 @@
-# Turner_Lab-4Y-Olfactometer_Module-RM2022
+# Turner Lab 4Y-Olfactometer Module
 ### Parallelized Olfactometer Assembly designed by Rishika Mohanta for Turner Lab (2022)
