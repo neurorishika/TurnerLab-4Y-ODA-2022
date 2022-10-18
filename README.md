@@ -8,5 +8,3 @@ Licensed under BSD 3-clause (Revised) license (c) HHMI Janelia Research Campus
 - freecad_files: holds the editable FreeCAD designs for all parts
 - images: assembly images and completed setup
 - printable_stl: production-ready STL files
-
-#### Parts List:
